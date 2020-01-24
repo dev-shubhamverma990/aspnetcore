@@ -1,0 +1,15 @@
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\bower.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\bundleconfig.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\aspnetapp.deps.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\aspnetapp.runtimeconfig.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\aspnetapp.runtimeconfig.dev.json
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\aspnetapp.dll
+D:\dotnet-docker-samples-master\aspnetapp\bin\Debug\netcoreapp2.1\aspnetapp.pdb
+D:\dotnet-docker-samples-master\aspnetapp\obj\Debug\netcoreapp2.1\aspnetapp.csprojAssemblyReference.cache
+D:\dotnet-docker-samples-master\aspnetapp\obj\Debug\netcoreapp2.1\aspnetapp.AssemblyInfoInputs.cache
+D:\dotnet-docker-samples-master\aspnetapp\obj\Debug\netcoreapp2.1\aspnetapp.AssemblyInfo.cs
+D:\dotnet-docker-samples-master\aspnetapp\obj\Debug\netcoreapp2.1\aspnetapp.dll
+D:\dotnet-docker-samples-master\aspnetapp\obj\Debug\netcoreapp2.1\aspnetapp.pdb
